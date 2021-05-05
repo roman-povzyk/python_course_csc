@@ -40,12 +40,3 @@ c = set.difference(xs, ys, zs)
 print(a)
 print(b)
 print(c)
-
-
-
-
-
-
-
-
-
